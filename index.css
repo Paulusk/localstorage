@@ -1,0 +1,46 @@
+body {
+    margin:0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    min-width: 400px;
+    background-color: rgb(136, 6, 129);
+}
+input {
+    width: 100%;
+    padding:10px;
+    box-sizing: border-box;
+    border:1px solid #c4b534;
+}
+button {
+    background: #c4b534;
+    color: white;
+    padding: 10px 20px;
+    width: 150px;
+    border: 1px solid #c4b534 ;
+    font-weight: bold;
+    margin-top: 4px;
+}
+#clearStorage {
+    background-color: blue;
+}
+#box {
+    cursor: pointer;
+    background: lightseagreen;
+    padding: 40px;
+    width: 200px;
+    text-align: center;
+    margin: 20px auto;
+    color: white;
+    font-weight: bold;
+}
+li a {
+    color: #c4b534;
+}
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: none;
+}
+li{
+    margin-top: 5px;
+}
