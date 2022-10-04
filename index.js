@@ -6,7 +6,7 @@ let array = ["kiol"]
 const inputEl = document.getElementById("input-el")
 let ulEl = document.getElementById("ul-el")
 const saveBtn = document.getElementById("save-btn")
-
+ 
 
 //first i need to see, if there is already content within in localstorage
 //1.
